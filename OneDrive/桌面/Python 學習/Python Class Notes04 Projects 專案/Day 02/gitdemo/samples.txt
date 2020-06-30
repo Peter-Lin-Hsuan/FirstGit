@@ -6,3 +6,8 @@ This is kinda hard, Git Command
 加上這個試試看，我修改了這個
 
 can't display Chinese huh?
+
+
+today on 6/30/2020, I added another working log,
+
+please use git log to check the progression!
