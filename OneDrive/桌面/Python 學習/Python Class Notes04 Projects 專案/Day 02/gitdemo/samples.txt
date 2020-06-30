@@ -11,3 +11,8 @@ can't display Chinese huh?
 today on 6/30/2020, I added another working log,
 
 please use git log to check the progression!
+
+
+on 6/30/2020 @ 10:18 am, I made another change to my working log
+
+Lets go check it out!
